@@ -133,6 +133,7 @@ set(
   src/runInformationService.cxx
   src/runInformationServiceDump.cxx
   src/runBasic.cxx
+  src/runTPCTest.cxx
   src/runAdvanced.cxx
   src/runReadout.cxx
   src/runMergerTest.cxx
@@ -159,6 +160,7 @@ set(
   qcInfoService
   qcInfoServiceDump
   qcRunBasic
+  qcRunTPCTest
   qcRunAdvanced
   qcRunReadout
   runMergerTest
@@ -313,6 +315,7 @@ install(
 install(
   FILES
     basic.json
+    tpcTest.json
     basic-no-sampling.json
     advanced.json
     readout.json
