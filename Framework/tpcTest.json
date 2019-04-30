@@ -14,7 +14,7 @@
       }
     },
     "tasks": {
-      "QcTask": {
+      "TPC-Test": {
         "active": "true",
         "className": "o2::quality_control_modules::tpc::QCTest",
         "moduleName": "QcTPC",

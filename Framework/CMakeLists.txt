@@ -146,6 +146,7 @@ set(
   o2-qc-info-service
   o2-qc-info-service-dump
   o2-qc-run-basic
+  o2-qc-run-tpctest
   o2-qc-run-advanced
   o2-qc-run-readout
   o2-qc-run-merger-test
